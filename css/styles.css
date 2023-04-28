@@ -1,7 +1,14 @@
+.banner-properties{
+    background-color: #264653;
+}
 .bikerz-zone-light-red{
     background-color: #ff00004d;
 }
 
 .rating-icon{
     width: 18px;
+}
+
+.toggle-properties{
+    color: white;
 }
